@@ -1,5 +1,0 @@
-﻿b. Wypłata gotówki
-d. szukanie dokumentów
-g. odwoływanie spotkań
-
-Aby były wykonane wymagane jest działanie użytkownika, a przynajmniej jego ingerencja.
