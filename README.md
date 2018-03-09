@@ -1,4 +1,4 @@
-# POP3_Server
+# IO_Lab_Tasks
 
 ## Overview
 This repository contains lesser projects needed to my Software Engieenery classes.
